@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deepseek体验</title>
+</head>
+<body>
+    <button onclick="showPopup()">deepseek服务</button>
+ 
+    <div id="myPopup" style="display:none; position:fixed; left:50%; top:50%; transform:translate(-50%, -50%); border:1px solid #ccc; background-color:#fff; padding:20px; z-index:1000;">
+        服务器繁忙，请稍后再试。
+        <button onclick="hidePopup()">关闭</button>
+    </div>
+ 
+    <script>
+        function showPopup() {
+            document.getElementById('myPopup').style.display = 'block';
+        }
+ 
+        function hidePopup() {
+            document.getElementById('myPopup').style.display = 'none';
+        }
+    </script>
+</body>
+</html>
