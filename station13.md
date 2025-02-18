@@ -30,3 +30,8 @@
 - 对于 $60\%$ 的数据，$1\le n \le 1000$，$1\le m \le 10^9$；  
 - 对于 $100\%$ 的数据，$1\le n \le 3 \times 10^4$，$1\le m \le 10^9$，$1\le a_i \le 10^8$。
 
+### Daily paper
+
+`更新时间：20250218`
+
+[20250218比赛相关](/FileLink/public/index.html)
