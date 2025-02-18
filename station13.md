@@ -8,7 +8,7 @@
 
 ### History
 
-- [x] `20250218` [轮换式（加强版）](https://www.luogu.com.cn/problem/P6296) [sol](/DT/station13/20250218.html)
+- [x] `20250218` [轮换式（加强版）](https://www.luogu.com.cn/problem/P6296) [sol](/DT/station13/20250218.html) ps:弱化版只是数据范围与模数不同。
 
 ### Daily training
 
